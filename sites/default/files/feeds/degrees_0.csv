@@ -1,0 +1,82 @@
+College,Program,Degrees Offered,CIP Code,Concentration (Major Code),TN Transfer Pathway
+College of Arts & Sciences,Art,BA,50.0701,"Education (2047), History (2048), Studio (2049)",Art (Studio)
+College of Arts & Sciences,Art,BFA,50.0701,"Graphic Design (3198), Painting & Drawing ( 3197), Photography & Media Art (3213), Sculpture (3341)",Art (Studio)
+College of Arts & Sciences,Biology,BS,26.0101,"General Biology (3015), Preprofessional (3016), Stem Education (3324)",Biology
+College of Arts & Sciences,Chemistry,BS,40.0501,"Biochemistry (3056), Chemistry (3020), Stem Education (3325)",Chemistry
+College of Arts & Sciences,Communication,BA,9.01,Communication (2010),Mass Communication
+College of Arts & Sciences,Criminal Justice,BS,43.0103,Criminal Justice (3029),Criminal Justice
+College of Arts & Sciences,Criminal Justice,MSCJ,43.0103,Criminal Justice (6136),
+College of Arts & Sciences,English,MA,23.0101,"Creative Writing (6155), Rhetoric & Writing (6154), Literary Study (6152)",
+College of Arts & Sciences,English & Amer Lang & Lit,BA,23.0101,"English & Amer Lang & Lit (2018), Creative Writing (3304), Rhetoric & Professional Writing (3303)",English
+College of Arts & Sciences,Environmental Science,BS,3.0104,"Biodiversity, Conservation & Natural Resources (3331), Earth, Atmosphere & Geological Resources (3333), Engineering Science (3083), Environmental Health (3330), Environmental Policy & Planning (3332), Geographic & Cartographic Sciences (3208)",
+College of Arts & Sciences,Environmental Science,MS,3.0104,Environmental Science (6104),
+College of Arts & Sciences,Geology,BS,40.0601,"Environmental Geology (3092), Geology (3091), Stem Education (3327)",Geosciences
+College of Arts & Sciences,History,BA,54.0101,History (2027),History
+College of Arts & Sciences,Humanities,BA,24.0103,"International Studies (2029), Liberal Arts (3232), Women's Studies (2030)",International Affairs
+College of Arts & Sciences,Legal Assistant Studies,BS,22.0302,"Legal Assistant Studies (3112), Social Sciences (3113)",
+College of Arts & Sciences,Mathematics,BS,27.0101,"Actuarial Science (3338), General (3337), Stem Education (3339)",Mathematics
+College of Arts & Sciences,Mathematics,MS,27.0101,"Applied Mathematics (6225), Applied Statistics (6227), Education (6231), Preprofessional (6266)",
+College of Arts & Sciences,Mathematics,PB CERT,27.0101,Computational & Applied Statistics (5067),
+College of Arts & Sciences,Modern & Classical Languages & Literatures,BA,16.0101,"French (3305), Greek & Latin (3306), Latin (3307), Spanish (3308)",Foreign Language
+College of Arts & Sciences,Music,BA,50.0901,Music (2033),
+College of Arts & Sciences,Music,BM,50.0901,"Instrumental Music Education (3222), Instrumental Performance (3201), Theory & Composition (3203), Vocal Music Education (3223), Vocal Performance (3204)",
+College of Arts & Sciences,Music,MM,50.0901,"Education (6142), Performance (6140)",
+College of Arts & Sciences,Philosophy & Religion,BA,38.9999,"Philosophy & Religion (2034), Philosophy (2035), Religious Studies (2036)",Philosophy
+College of Arts & Sciences,Physics,BS,40.0801,"Biophysics (3317), Physics (3137), Stem Education (3328)",
+College of Arts & Sciences,Political Science,BS,45.1001,"American Studies (3143), International & Comparative Studies (3145), Legal Studies (3146), Public Administration & Nonprofit Management (3148), Public Policy (3234)",Political Science
+College of Arts & Sciences,Psychology,BS,42.0101,Psychology (3140),Psychology
+College of Arts & Sciences,Psychology,MS,42.0101,"Industrial/Organizational (6145), Research (6147)",
+College of Arts & Sciences,Public Administration,MPA,44.0401,"Public Administration (6202), Local Government Mgmt (6222), Non-Profit Management (6204)",
+College of Arts & Sciences,Public Administration,PB CERT,44.9999,Nonprofit Management (5019),
+College of Arts & Sciences,Sociology & Anthropology,BA,45.9999,Anthropology (2038),Anthropology
+College of Arts & Sciences,Sociology & Anthropology,BS,45.9999,"Anthropology (3152), Sociology (3156)","Sociology, Anthropology"
+College of Arts & Sciences,Theatre,BA,50.0501,Theatre (2045),Theatre Arts
+College of Business Administration,Accountancy,MACC,52.0301,"Accountancy (6150), Forensic Data Analytics (6271)",
+College of Business Administration,Business Administration,BS,52.0201,"Accounting (3001), Business Analytics (3344), Economics (3352), Entrepreneurship (3007), Finance: Business Finance (3002), Finance: Investments (3221), Human Resource Management (3005), Management (3342), Marketing (3004)","Business Administration, Finance, Management, Marketing"
+College of Business Administration,Business Administration,MBA,52.0201,"Business Administration (6192), Executive (6195), Finance (6292), Healthcare Administration (6298), Human Resources (6297), Professional Business Analytics (6267), Professional MBA (6264)",
+College of Business Administration,Business Administration,PB CERT,52.0201,Business Analytics (5056),
+College of Business Administration,Economics,BA,45.0601,Economics (2017),Economics - Liberal Arts
+College of Engineering & Computer Science,Chemical Engineering,BSChE,14.0701,"Chemical Engineering (3212), Environmental (3346)",
+College of Engineering & Computer Science,Civil Engineering,BSCE,14.0801,"Civil Engineering (3211), Environmental (3360)",Civil Engineering
+College of Engineering & Computer Science,Computational Science,PhD,30.3001,"Computational Science (6275), Computational Engineering (6276), Computer Science (6277)",
+College of Engineering & Computer Science,Computer Science,BS,11.0701,"Computer Engineering (3021), Data Science (3347), Cyber Security (3025), Software Systems (3023), Stem Education (3326)",Computer Science
+College of Engineering & Computer Science,Computer Science,MS,11.0701,"Computer Science (6086), Data Science (6280), Information Security & Assurance (6087)",
+College of Engineering & Computer Science,Computer Science,PB CERT,26.9999,Biomedical Informatics (5027),
+College of Engineering & Computer Science,Electrical Engineering,BSEE,14.1001,Electrical Engineering (3079),Electrical Engineering
+College of Engineering & Computer Science,Electrical Engineering,PB CERT,14.1001,"Smart Grid (5046), Smart Power Distribution (5054)",
+College of Engineering & Computer Science,Engineering,MS,14.0101,"Automotive Systems (6278), Chemical: Chemical Science (6245), Civil (6114), Computational (6116), Electrical (6106), Mechanical: Energy (6243)",
+College of Engineering & Computer Science,Engineering,PB CERT,14.1001,"Power System Protection (5037), Sustainable Electric Energy (5038)",
+College of Engineering & Computer Science,Engineering Management,MS,15.1501,"Engineering Management (6118), Construction Management (6233)",
+College of Engineering & Computer Science,Engineering Management,PB CERT,15.1501,"Construction Management (5057/5059), Logistics & Supply Chain Mgmt (5047), Project & Technology Mgmt (5055/5058), Quality Management (5010/5048)",
+College of Engineering & Computer Science,Engineering Technology Mgmt,BS,15.1501,"Construction Management (3136), Engineering Mgmt (3135)",Engineering Technology
+College of Engineering & Computer Science,Mechanical Engineering,BSME,14.1901,Mechanical Engineering (3078),Mechanical Engineering
+"College of Health, Education & Professional Studies",Advanced Educational Practice,EdS,13.1299,"Instructional Leadership (5212),Principal Licensure (6235), School Psychology (6210)",
+"College of Health, Education & Professional Studies",Athletic Training,MS,51.0913,Athletic Training (6102),
+"College of Health, Education & Professional Studies",Counseling,MEd,13.1101,"Clinical Mental Health (6240), School Counseling (6032)",
+"College of Health, Education & Professional Studies",Counseling,PM CERT,51.1508,"Clinical Mental Health (5044), School Counseling (5045)",
+"College of Health, Education & Professional Studies",Early Childhood,BS,13.121,"Child & Family Studies (3054), Early Childhood & Special Educ (3353)",Family & Consumer Science
+"College of Health, Education & Professional Studies",Education,PB CERT,13.1401,"English As A Second Lang (5031), Instructional Coaching (5063), Urban Specialist (5021)",
+"College of Health, Education & Professional Studies",Elementary Education,MEd,13.1202,"Early Childhood (6007), Elementary Education (6015), English As A Second Language (6279), Licensure (6022), Reading Specialist (6026)",
+"College of Health, Education & Professional Studies",Exceptional Learning,BS,13.1001,K-8 Interventionist (3354),Special Education
+"College of Health, Education & Professional Studies",Health & Human Performance,BS,31.0505,"Dietetics (3319), Exercise Science (3334), Health & Physical Education K-12 (3336), Sport Outdoor & Tourism Management (3124)","Exercise Science, Nutrition & Food Science, Physical Education, Sport and Leisure Management"
+"College of Health, Education & Professional Studies",Health & Human Performance,MS,31.0505,Physical Activity And Health (6261),
+"College of Health, Education & Professional Studies",Integrated Studies,BIS,30,Integrated Studies (3302),
+"College of Health, Education & Professional Studies",Interior Architechture,BS,4.0501,Interior Architechture (3340),
+"College of Health, Education & Professional Studies",Interior Architechture,PB CERT,50.0408,"Historical Preservation (5065), Sustainable Design (5066)",
+"College of Health, Education & Professional Studies",Interior Design,MID,50.0408,Interior Design (6273),
+"College of Health, Education & Professional Studies",Interior Design,MS,50.0408,Interior Design (6272),
+"College of Health, Education & Professional Studies",Learning & Leadership,EdD,13.0401,Learning & Leadership (6220),
+"College of Health, Education & Professional Studies",Middle Grades Education,BS,13.1203,"English (3356), Mathematics (3357), Natural Sciences (3358), Social Sciences (3359)",
+"College of Health, Education & Professional Studies",Nursing,BSN,51.3801,"Nursing (3139), RN to BSN (3249)",
+"College of Health, Education & Professional Studies",Nursing,DNP,51.3805,"Nursing (6251), Nurisng Administration Systems (6260)",
+"College of Health, Education & Professional Studies",Nursing,MSN,51.3801,"Adult Gerontology (6281), Anesthesia (6128), Education (6268), Family Nurse Practitioner (6132), Nursing Administration (6119)",
+"College of Health, Education & Professional Studies",Nursing,PM CERT,51.3801,"Adult Gerontology Acute (5064), Family Nurse Practitioner (5001), Nurse Anesthesia (5003), Nursing Education (5029)",
+"College of Health, Education & Professional Studies",Occupational Therapy,OTD,51.2306,Occupational Therapy (6250),
+"College of Health, Education & Professional Studies",Physical Therapy,DPT,51.2308,Physical Therapy (6214),
+"College of Health, Education & Professional Studies",School Leadership,MEd,13.0401,"Principal Licensure (6004), Teacher Leadership (6006)",
+"College of Health, Education & Professional Studies",School Leadership,PM CERT,13.0401,School Leadership (5023),
+"College of Health, Education & Professional Studies",Secondary Education,BS,13.1205,"Economics (3241), English (3242), Geography (3243), History (3244), Political Science (3247)",
+"College of Health, Education & Professional Studies",Secondary Education,MEd,13.1205,"English As A Second Lang (6284), Licensure (6054), Non-Licensure (6265), Reading Specialist (6060)",
+"College of Health, Education & Professional Studies",Social Work,BSW,44.0701,Social Work (3153),Social Work
+"College of Health, Education & Professional Studies",Social Work,MSW,44.0701,Social Work (6274),
+"College of Health, Education & Professional Studies",Special Education,MEd,13.1001,"Early Childhood Special Ed (6071), Mild Disabilities (6065)",
